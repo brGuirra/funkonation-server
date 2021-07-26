@@ -1,0 +1,130 @@
+{
+  "products" :[
+    {
+      "id": 1,
+      "name": "DEADPOOL WITH TWO SWORDS - MARVEL",
+      "price": 99.00,
+      "collection": "marvel",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/7486_DeadpoolSwords_GLAM-WEB_900x2000.png?v=1622672476"
+    },
+    {
+      "id": 2,
+      "name": "HULK - AVENGERS AGE OF ULTRON",
+      "price": 99.00,
+      "collection": "marvel",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/4776_Avengers_2_Hulk_GLAM-WEB_900x2000.png?v=1622672472"
+    },
+    {
+      "id": 3,
+      "name": "FALCON FLYING - THE FALCON AND THE WINTER SOLDIER",
+      "price": 99.00,
+      "collection": "marvel",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/51628_MARVEL_Falcon_flying_POP_GLAM-WEB_900x2000.png?v=1611278797%22"
+    },
+    {
+      "id": 4,
+      "name": "HARLEY QUINN - DC IMPERIAL PALACE",
+      "price": 99.00,
+      "collection": "dc",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/52429_DC_ImperialPalace_HarleyQuinn_POP_GLAM-WEB_900x2000.png?v=1611592076"
+    },
+    {
+      "id": 5,
+      "name": "THE FLASH WITH LIGHTNING",
+      "price": 99.00,
+      "collection": "dc",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/52018_DC_TheFlash_TheFlash_POP_GLAM-WEB_900x2000.png?v=1611884939"
+    },
+    {
+      "id": 6,
+      "name": "BATMAN (1989) - DC",
+      "price": 99.00,
+      "collection": "dc",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/1436_4202_8d6a8a1e6239498_37248_Batman80_Batman_1989_POP_WEB_900x2000.png?v=1585600004"
+    },
+    {
+      "id": 7,
+      "name": "REY WITH YELLOW LIGHTSABER - THE RISE OF SKYWALKER",
+      "price": 99.00,
+      "collection": "star-wars",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/51482_StarWars_Rey_POP_GLAM-WEB_900x2000.png?v=1613162481"
+    },
+    {
+      "id": 8,
+      "name": "THE MANDALORIAN FLYING WITH JET PACK",
+      "price": 99.00,
+      "collection": "star-wars",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/50959_Mandolarian_MandoFlyingJetPack_POP_GLAM-WEB_900x2000.png?v=1602287078"
+    },
+    {
+      "id": 9,
+      "name": "DARTH VADER LIGHTS & SOUND - STAR WARS",
+      "price": 99.00,
+      "collection": "star-wars",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/1436_3266_8d7438a59699cdb_35519_SW_DarthVaderElectronic_POP_GLAM-WEB_900x2000.png?v=1584522401"
+    },
+    {
+      "id": 10,
+      "name": "CRUELLA (MAKING ART) - CRUELLA",
+      "price": 99.00,
+      "collection": "disney",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/54466_Disney_Cruella_CheckGown_POP_GLAM-Web_900x2000.png?v=1619452110"
+    },
+    {
+      "id": 11,
+      "name": "STITCH SITTING - LILO & STITCH",
+      "price": 99.00,
+      "collection": "disney",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/51482_StarWars_Rey_POP_GLAM-WEB_900x2000.png?v=1613162481" 
+    },
+    {
+      "id": 12,
+      "name": "ELSA - FROZEN 2",
+      "price": 99.00,
+      "collection": "disney",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/40884_Frozen2_Elsa_travel_POP_GLAM_WEB_900x2000.png?v=1606767093"
+    },
+    {
+      "id": 13,
+      "name": "HARRY POTTER",
+      "price": 99.00,
+      "collection": "harry-potter",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/5858_HarryPotter_Harry_POP_GLAM-WEB_900x2000.png?v=1592339722"
+    },
+    {
+      "id": 14,
+      "name": "HERMIONE GRANGER - HARRY POTTER",
+      "price": 99.00,
+      "collection": "harry-potter",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/51482_StarWars_Rey_POP_GLAM-WEB_900x2000.png?v=1613162481"
+    },
+    {
+      "id": 15,
+      "name": "ALBUS DUMBLEDORE - HARRY POTTER",
+      "price": 99.00,
+      "collection": "harry-potter",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/5891_HarryPotter_Dumbledore_POP_GLAM-WEB_900x2000.png?v=1592286041"
+    },
+    {
+      "id": 16,
+      "name": "MICHAEL SCOTT IN STRAIGHTJACKET - THE OFFICE",
+      "price": 99.00,
+      "collection": "the-office",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/51486_TheOffice_StraitJacketMichael_POP_GLAM-WEB_900x2000.png?v=1603135795"
+    },
+    {
+      "id": 17,
+      "name": "FLORIDA STANLEY - THE OFFICE",
+      "price": 99.00,
+      "collection": "the-office",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/48496_The-Office_Florida-Stanley_POP_WEB_900x2000.png?v=15922"
+    },
+    {
+      "id": 18,
+      "name": "DWIGHT SCHRUTE - THE OFFICE",
+      "price": 99.00,
+      "collection": "the-office",
+      "image": "https://cdn.shopify.com/s/files/1/1052/2158/products/34906_TheOffice_DwightSchrute_POP_WEB_900x2000.png?v=1585691877"
+    }
+  ]
+}
